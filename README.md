@@ -1,1 +1,1 @@
-"# hibernate_demo" 
+I created this project while learning Hibernate. 
