@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-ear" name="hibernate:ear exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/hibernate_ear_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="hibernate/javaeeApplication/javaEEApplication" />
+    </root>
+  </artifact>
+</component>
